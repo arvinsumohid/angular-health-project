@@ -1,0 +1,1 @@
+1. check in "app.module.ts" for providers if it is hash or path location by default it is path Location
