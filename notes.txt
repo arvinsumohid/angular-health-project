@@ -1,1 +1,4 @@
 1. check in "app.module.ts" for providers if it is hash or path location by default it is path Location
+2 this.activatedRoute.queryParams is different from this.activatedRoute.params
+    - queryParams for url?country=usa
+    - params for url/country/usa
